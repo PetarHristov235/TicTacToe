@@ -1,2 +1,3 @@
 # TicTacToe
-That is my first project
+Tic Tac Toe made on IntelliJ in one hour.
+ 
