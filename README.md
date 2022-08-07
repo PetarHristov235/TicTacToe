@@ -1,3 +1,3 @@
 # TicTacToe
-Tic Tac Toe made on IntelliJ in one hour.
+Tic Tac Toe example with Java.
  
